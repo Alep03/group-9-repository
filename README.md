@@ -1,4 +1,4 @@
-##Project Overview
+## Project Overview
 
 A straightforward yet effective command-line tool and library, Automatic Text Summarizer is made to extract summaries from plain text or HTML pages. By providing both extractive and abstractive summarization techniques, it makes summarizing extensive text easier. Additionally, the library offers a simple assessment system for determining how well text summaries are written.
 Features:
